@@ -1,0 +1,17 @@
+{
+    "name": "sergey/hexlet-git",
+    "autoload": {        
+        "files": [
+            "src/StringUtils.php"                   
+        ]
+    },
+    "authors": [
+        {
+            "name": "ZamSergey",
+            "email": "zamsergey@gmail.com"
+        }
+    ],
+    "require": {
+        "webmozart/assert": "^1.11"
+    }
+}
